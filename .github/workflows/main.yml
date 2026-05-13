@@ -9,7 +9,7 @@ on:
       message:
         description: '단축어에서 보낼 메시지'
         required: true
-        default: 'Hello from iPhone!'
+        default: 'fff'
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
